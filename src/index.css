@@ -9,7 +9,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('indian-city.jpg');
+  background-image: url('background-img.jpg');
 }
 
   .traffic-light {
