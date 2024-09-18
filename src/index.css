@@ -10,6 +10,7 @@ body {
   justify-content: center;
   align-items: center;
   background-image: url('background-img.jpg');
+  background-size: cover;
 }
 
   .traffic-light {
